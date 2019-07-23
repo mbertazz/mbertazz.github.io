@@ -20,6 +20,8 @@ description: learning until you die
 
 # List of links in the navigation bar
 navbar-links:
+  Posts: "posts"
+  Publications: "publications"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
