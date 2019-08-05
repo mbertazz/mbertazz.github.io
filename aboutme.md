@@ -21,10 +21,10 @@ Previously I worked at the Institute of Water Management, Hydrology and Hydrauli
 - [PMP® certification](https://www.youracclaim.com/badges/6a97b8ae-3b49-420e-8b88-09fba868b950/), Project Management Professional, PMI - 2008
 
 ## PUBLICATIONS
-During the last 10 years I have been co-author for a number of papers in the Education and Digital Humanities areas. More information on https://cineca.academia.edu/mbertazz
+During the last 10 years I have been co-author for a number of papers in the Education and Digital Humanities areas. More information on [my profile on Academia.edu](https://cineca.academia.edu/mbertazz).
 ### Other publications
-Con la blockchain le competenze diventano moneta intellettuale, Il Sole 24 Ore - 2018
-Digital credential in università, con Open Badge e Blockchain: i sistemi, Agenda Digitale - 2018
+- [Con la blockchain le competenze diventano moneta intellettuale](https://bit.ly/2NjVz4K), Il Sole 24 Ore - 2018
+- [Digital credential in università, con Open Badge e Blockchain: i sistemi](https://www.agendadigitale.eu/cultura-digitale/digital-credential-in-universita-con-open-badge-e-blockchain-i-sistemi/), Agenda Digitale - 2018
 
 ## MAIN PROFESSIONAL PRESENTATIONS
 - Crypto Asset tra tecnologia e tentativi di regolazione, Università degli Studi di Milano - Bicocca, Milan (IT), June 2019
