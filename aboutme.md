@@ -18,14 +18,15 @@ Previously I worked at the Institute of Water Management, Hydrology and Hydrauli
 - [Leading Strategic Innovation in Organizations](https://www.coursera.org/account/accomplishments/records/L2M5MAWLVY), Vanderbilt Univ. - 2014
 - [Metadata: Organizing and Discovering Information](https://www.coursera.org/account/accomplishments/records/2DKGET4FHP), The Univ. of North Carolina at Chapel Hill - 2013
 - Orientamento al problem solving e all'innovazione, SCS Consulting - 2013
-- PMP® certification, Project Management Professional, PMI - 2008
+- [PMP® certification](https://www.youracclaim.com/badges/6a97b8ae-3b49-420e-8b88-09fba868b950/), Project Management Professional, PMI - 2008
 
 ## MAIN PROFESSIONAL PRESENTATIONS
 - Crypto Asset tra tecnologia e tentativi di regolazione, Università degli Studi di Milano - Bicocca, Milan (IT), June 2019
 - Congresso sulla valutazione, validazione, qualificazione e certificazione delle competenze, Trento (IT), 2019
 - La certificazione blockchain nell'education, Università degli Studi di Milano - Bicocca, Milan (IT), January 2019
 - [Blockchain for learning innovation](https://www.skilla.com/blog/blockchain-for-learning-innovation_2190/), Skilla, 2019
-- Seminario "Scenari per innovare l'attività formativa", Università di Siena, Siena, 2018
+- Valutare e certificare le competenze, Università di Modena e Reggio Emilia, Reggio Emilia, 2018
+- Scenari per innovare l'attività formativa, Università di Siena, Siena, 2018
 - Cognitive Computing, from Data to Business Discovery, Insightful Business, Milan (IT), 2017
 - Online Educa Berlin 2016 – Berlin (DE), 2016
 - EMMITALIA 2015 & 2016, Keynote speaker - Genoa (IT), 2016
