@@ -24,13 +24,9 @@ During the last 10 years I have been co-author for a number of papers in the Edu
 - [Con la blockchain le competenze diventano moneta intellettuale](https://bit.ly/2NjVz4K), Il Sole 24 Ore - 2018
 - [Digital credential in università, con Open Badge e Blockchain: i sistemi](https://www.agendadigitale.eu/cultura-digitale/digital-credential-in-universita-con-open-badge-e-blockchain-i-sistemi/), Agenda Digitale - 2018
 
-<<<<<<< HEAD
 ## MAIN PROFESSIONAL PRESENTATIONS
 - [JOB&Orienta](https://www.joborienta.info/), The European framework for digitally-signed credentials pilot, November 2019
 - [EMEMITALIA 2019](https://ememitalia.org/), Open Badges e Blockcerts per il diploma di laurea, September 2019
-=======
-## MAIN PROFESSIONAL PUBLIC PRESENTATIONS
->>>>>>> 8055fc0579e568fceb6fb28e4817eb7d0e35f203
 - [Crypto Asset tra tecnologia e tentativi di regolazione](https://cryptoassetlab.diseade.unimib.it/2019/05/10/presentation.html), Università degli Studi di Milano - Bicocca, Milan (IT), June 2019
 - [Congresso sulla valutazione, validazione, qualificazione e certificazione delle competenze](http://valutazioneitaliana.eu/wp-content/uploads/2019/05/programma-congresso-competenze.pdf), Trento (IT), 2019
 - [La certificazione blockchain nell'education](https://www.unimib.it/sites/default/files/eventi/loc_blockchain-def.pdf), Università degli Studi di Milano - Bicocca, Milan (IT), January 2019
