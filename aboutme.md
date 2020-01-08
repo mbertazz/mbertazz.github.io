@@ -6,6 +6,8 @@ published: true
 ---
 
 ...
+## AWARDS
+- Reimagine Education the [Silver Award](https://www.reimagine-education.com/blockchain-2020/ "Reimagine Education Silver Award") for “Best Innovation in Blockchain Technology”, London 2019
 
 ## MAIN TRAINING EXPERIENCES AND CERTIFICATIONS
 - High Performance Collaboration: Leadership, Teamwork, and Negotiation, Coursera - 2019
