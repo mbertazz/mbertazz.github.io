@@ -5,7 +5,8 @@ subtitle: null
 published: true
 ---
 
-...
+Matteo Bertazzo holds a Master Degree in Computer Science from Ca’ Foscari University of Venice, Italy. After a research fellowship in Location-based Services from the National Research Council he works as web developer and technical project manager. He currently works as Team Leader and PMP® certified Project Manager at CINECA InterUniversity Consortium. He has been involved in a number of Education and Digital Humanities projects, both for the consortium’s members and for EU-funded projects. He currently leads the Digital Education area managing a team of 25 people working on 9 products and he's the product owner of [Bestr](https://bestr.it) digital credentialing platform.
+
 ## AWARDS
 - Reimagine Education the [Silver Award](https://www.reimagine-education.com/blockchain-2020/ "Reimagine Education Silver Award") for “Best Innovation in Blockchain Technology”, London 2019
 
