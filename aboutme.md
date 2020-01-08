@@ -5,7 +5,7 @@ subtitle: null
 published: true
 ---
 
-TDB
+...
 
 ## MAIN TRAINING EXPERIENCES AND CERTIFICATIONS
 - High Performance Collaboration: Leadership, Teamwork, and Negotiation, Coursera - 2019
