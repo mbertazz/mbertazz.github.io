@@ -28,6 +28,7 @@ During the last 10 years I have been co-author for a number of papers in the Edu
 - [Digital credential in università, con Open Badge e Blockchain: i sistemi](https://www.agendadigitale.eu/cultura-digitale/digital-credential-in-universita-con-open-badge-e-blockchain-i-sistemi/), Agenda Digitale - 2018
 
 ## MAIN PROFESSIONAL PRESENTATIONS
+- [Regione Veneto - Dalla carta al digitale] (https://www.eurocultura.it/images/pdf/2015alldocpdf/1085-Dallacartaaldigitale.pdf), Venezia 24 gennaio 2020
 - [JOB&Orienta](https://www.joborienta.info/), The European framework for digitally-signed credentials pilot, November 2019
 - [EMEMITALIA 2019](https://ememitalia.org/), Open Badges e Blockcerts per il diploma di laurea, September 2019
 - [Crypto Asset tra tecnologia e tentativi di regolazione](https://cryptoassetlab.diseade.unimib.it/2019/05/10/presentation.html), Università degli Studi di Milano - Bicocca, Milan (IT), June 2019
