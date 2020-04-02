@@ -1,3 +1,4 @@
+redirect_from: "/"
 ---
 layout: page
 title: About me
