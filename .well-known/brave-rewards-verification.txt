@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: bertazzo.org
+Token: e4f0e237e1644461c5d2f44926fb34903913c35182acd2f7adf895ac711e13cd
