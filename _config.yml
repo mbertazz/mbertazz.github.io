@@ -19,6 +19,8 @@ title: Matteo Bertazzo
 # Short description of your site
 description: Digital Education, Innovation and Identity
 
+include: [".well-known"]
+
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
